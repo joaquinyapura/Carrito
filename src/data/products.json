@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "name": "papas pinta",
+      "price": 10
+    },
+    {
+      "id": 2,
+      "name": "bigmac",
+      "price": 800
+    },
+    {
+      "id": 3,
+      "name": "napolitana",
+      "price": 400
+    },
+    {
+      "id": 4,
+      "name": "milanesa",
+      "price": 550
+    }
+  ]
